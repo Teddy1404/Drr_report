@@ -1,3 +1,12 @@
+#project preview 
+
+![second](https://github.com/Teddy1404/Drr_report/assets/96349795/6f59038f-914d-49c4-aa9d-a82da4ca90a8)
+
+
+![first](https://github.com/Teddy1404/Drr_report/assets/96349795/a8b8eebf-a5b4-4dc8-b597-67c8efb1f929)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
