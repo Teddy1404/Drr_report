@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Drr_report/static/css/main.d7010bd5.css",
+    "main.js": "/Drr_report/static/js/main.ebf20de2.js",
+    "index.html": "/Drr_report/index.html",
+    "main.d7010bd5.css.map": "/Drr_report/static/css/main.d7010bd5.css.map",
+    "main.ebf20de2.js.map": "/Drr_report/static/js/main.ebf20de2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7010bd5.css",
+    "static/js/main.ebf20de2.js"
+  ]
+}
